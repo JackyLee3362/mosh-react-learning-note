@@ -1,0 +1,2007 @@
+{
+  "code": 0,
+  "message": "0",
+  "ttl": 1,
+  "data": [
+    {
+      "cid": 62983841,
+      "page": 1,
+      "from": "vupload",
+      "part": "中文 CH1 - 1- What is React",
+      "duration": 273,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63013189,
+      "page": 2,
+      "from": "vupload",
+      "part": "中文 CH1 - 2- Setting Up the Development Environment",
+      "duration": 218,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63029026,
+      "page": 3,
+      "from": "vupload",
+      "part": "中文 CH1 - 3- Your First React App",
+      "duration": 394,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63074404,
+      "page": 4,
+      "from": "vupload",
+      "part": "中文 CH1 - 4- Hello World",
+      "duration": 326,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63177119,
+      "page": 5,
+      "from": "vupload",
+      "part": "中文 CH1 - 5- Custom Configs",
+      "duration": 192,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63182133,
+      "page": 6,
+      "from": "vupload",
+      "part": "中文 CH1 - 6- Full-stack Architecture",
+      "duration": 165,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63184654,
+      "page": 7,
+      "from": "vupload",
+      "part": "中文 CH1 - 7- Course Structure",
+      "duration": 145,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63439821,
+      "page": 8,
+      "from": "vupload",
+      "part": "中文 CH2 - ES6 - 1 - Introduction",
+      "duration": 104,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63444808,
+      "page": 9,
+      "from": "vupload",
+      "part": "中文 CH2 - ES6 - 2- Let vs Var vs Const",
+      "duration": 233,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63447510,
+      "page": 10,
+      "from": "vupload",
+      "part": "中文 CH2 - ES6 - 3- Objects",
+      "duration": 166,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63450914,
+      "page": 11,
+      "from": "vupload",
+      "part": "中文 CH2 - ES6 - 4- The this Keyword",
+      "duration": 171,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63462890,
+      "page": 12,
+      "from": "vupload",
+      "part": "中文 CH2 - ES6 - 5- Binding this",
+      "duration": 157,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63467716,
+      "page": 13,
+      "from": "vupload",
+      "part": "中文 CH2 - ES6 - 6- Arrow Functions",
+      "duration": 256,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63479083,
+      "page": 14,
+      "from": "vupload",
+      "part": "中文 CH2 - ES6 - 7- Arrow Functions and this",
+      "duration": 255,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63551716,
+      "page": 15,
+      "from": "vupload",
+      "part": "中文 CH2 - ES6 - 8- Array.map Method",
+      "duration": 217,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63585388,
+      "page": 16,
+      "from": "vupload",
+      "part": "中文 CH2 - ES6 - 9- Object Destructuring",
+      "duration": 150,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63589827,
+      "page": 17,
+      "from": "vupload",
+      "part": "中文 CH2 - ES6 - 10- Spread Operator",
+      "duration": 243,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63593988,
+      "page": 18,
+      "from": "vupload",
+      "part": "中文 CH2 - ES6 - 11- Classes",
+      "duration": 226,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63599251,
+      "page": 19,
+      "from": "vupload",
+      "part": "中文 CH2 - ES6 - 12- Inheritance",
+      "duration": 244,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63614853,
+      "page": 20,
+      "from": "vupload",
+      "part": "中文 CH2 - ES6 - 13- Modules",
+      "duration": 252,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63628174,
+      "page": 21,
+      "from": "vupload",
+      "part": "中文 CH2 - ES6 - 14- Named and Default Exports",
+      "duration": 316,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63845379,
+      "page": 22,
+      "from": "vupload",
+      "part": "中文 CH3 - Component - 1- Introduction",
+      "duration": 99,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63862072,
+      "page": 23,
+      "from": "vupload",
+      "part": "中文 CH3 - Component - 2- Setting Up the Project",
+      "duration": 127,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63867390,
+      "page": 24,
+      "from": "vupload",
+      "part": "中文 CH3 - Component - 3- Your First React Component",
+      "duration": 322,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63874186,
+      "page": 25,
+      "from": "vupload",
+      "part": "中文 CH3 - Component - 4- Specifying Children",
+      "duration": 257,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 63967464,
+      "page": 26,
+      "from": "vupload",
+      "part": "中文 CH3 - Component - 5- Embedding Expressions",
+      "duration": 291,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64001956,
+      "page": 27,
+      "from": "vupload",
+      "part": "中文 CH3 - Component - 6- Setting Attributes",
+      "duration": 346,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64078743,
+      "page": 28,
+      "from": "vupload",
+      "part": "中文 CH3 - Component - 7- Rendering Classes Dynamically",
+      "duration": 260,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64078744,
+      "page": 29,
+      "from": "vupload",
+      "part": "中文 CH3 - Component - 8 - Rendering Lists",
+      "duration": 239,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64087564,
+      "page": 30,
+      "from": "vupload",
+      "part": "中文 CH3 - Component - 9- Conditional Rendering",
+      "duration": 365,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64102729,
+      "page": 31,
+      "from": "vupload",
+      "part": "中文 CH3 - Component - 10- Handling Events",
+      "duration": 170,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64102964,
+      "page": 32,
+      "from": "vupload",
+      "part": "中文 CH3 - Component - 11- Binding Event Handlers",
+      "duration": 277,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64102739,
+      "page": 33,
+      "from": "vupload",
+      "part": "中文 CH3 - Component - 12- Updating the State",
+      "duration": 136,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64102672,
+      "page": 34,
+      "from": "vupload",
+      "part": "中文 CH3 - Component - 13- What Happens When State Changes",
+      "duration": 125,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64190409,
+      "page": 35,
+      "from": "vupload",
+      "part": "中文 CH3 - Component - 14- Passing Event Arguments",
+      "duration": 186,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 77098916,
+      "page": 36,
+      "from": "vupload",
+      "part": "中文 CH3 - Componet - 15- Setting Up the Vidly Project",
+      "duration": 339,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64209244,
+      "page": 37,
+      "from": "vupload",
+      "part": "中文 CH3 - Component - 16- Exercises",
+      "duration": 206,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64217262,
+      "page": 38,
+      "from": "vupload",
+      "part": "中文 CH3 - Component - 17- Building the Movies Component",
+      "duration": 439,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64240961,
+      "page": 39,
+      "from": "vupload",
+      "part": "中文 CH3 - Component - 18- Deleting a Movie",
+      "duration": 320,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64252170,
+      "page": 40,
+      "from": "vupload",
+      "part": "中文 CH3 - Component - 19- Conditional Rendering",
+      "duration": 207,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 84003682,
+      "page": 41,
+      "from": "vupload",
+      "part": "中文 CH4 - 组合组件 -1- Introduction",
+      "duration": 46,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64641069,
+      "page": 42,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 2- Composing Components",
+      "duration": 226,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64644375,
+      "page": 43,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 3- Passing Data to Components",
+      "duration": 192,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64644846,
+      "page": 44,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 4- Passing Children",
+      "duration": 191,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64677161,
+      "page": 45,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 5 - Debugging React Apps",
+      "duration": 250,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64677024,
+      "page": 46,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 6- Props vs State",
+      "duration": 145,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64728516,
+      "page": 47,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 7 - Raising and Handling Events",
+      "duration": 293,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64730944,
+      "page": 48,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 8- Updating the State",
+      "duration": 279,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64736305,
+      "page": 49,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 9- Single Source of Truth",
+      "duration": 236,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64764807,
+      "page": 50,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 10- Removing the Local State",
+      "duration": 408,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64804580,
+      "page": 51,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 11- Multiple Components in Sync",
+      "duration": 354,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64810398,
+      "page": 52,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 12- Lifting the State Up",
+      "duration": 338,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64853619,
+      "page": 53,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 13 - Stateless Functional Components",
+      "duration": 150,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64853620,
+      "page": 54,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 14- Destructuring Arguments",
+      "duration": 121,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64853606,
+      "page": 55,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 15 - Lifecycle Hooks",
+      "duration": 99,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64858868,
+      "page": 56,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 16 - Mounting Phase",
+      "duration": 336,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64995439,
+      "page": 57,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 17- Updating Phase",
+      "duration": 261,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 64997342,
+      "page": 58,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 18- Unmounting Phase",
+      "duration": 87,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 65004354,
+      "page": 59,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 20- Solution - Decrement Button",
+      "duration": 294,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 65011779,
+      "page": 60,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 21- Exercise- Like Component",
+      "duration": 105,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 65078923,
+      "page": 61,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 22- Solution- Like Component",
+      "duration": 747,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 65079606,
+      "page": 62,
+      "from": "vupload",
+      "part": "中文 CH4 - Composing Components - 23- Summary",
+      "duration": 43,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66017480,
+      "page": 63,
+      "from": "vupload",
+      "part": "中文 CH5 - Pagination, Filtering, and Sorting - 1- Introduction",
+      "duration": 69,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66017427,
+      "page": 64,
+      "from": "vupload",
+      "part": "中文 CH5 - Pagination, Filtering, and Sorting - 2- Exercise- Pagination Component",
+      "duration": 62,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66017495,
+      "page": 65,
+      "from": "vupload",
+      "part": "中文 CH5 - Pagination, Filtering, and Sorting - 3- Pagination- Component Interface",
+      "duration": 227,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66017573,
+      "page": 66,
+      "from": "vupload",
+      "part": "中文 CH5 - Pagination, Filtering, and Sorting - 4- Pagination- Displaying Pages",
+      "duration": 409,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66017569,
+      "page": 67,
+      "from": "vupload",
+      "part": "中文 CH5 - Pagination, Filtering, and Sorting - 5- Pagination- Handling Page Chang",
+      "duration": 350,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66017883,
+      "page": 68,
+      "from": "vupload",
+      "part": "中文 CH5 - Pagination, Filtering, and Sorting - 6- Pagination- Paginating Data",
+      "duration": 375,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66017884,
+      "page": 69,
+      "from": "vupload",
+      "part": "中文 CH5 - Pagination, Filtering, and Sorting - 7- Pagination- Type Checking with",
+      "duration": 297,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66097401,
+      "page": 70,
+      "from": "vupload",
+      "part": "中文 CH5 - Pagination, Filtering, and Sorting - 8- Exercise- ListGroup Component",
+      "duration": 85,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66097741,
+      "page": 71,
+      "from": "vupload",
+      "part": "中文 CH5 - Pagination, Filtering, and Sorting - 9- Filtering- Component Interface",
+      "duration": 333,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66097732,
+      "page": 72,
+      "from": "vupload",
+      "part": "中文 CH5 - Pagination, Filtering, and Sorting - 10- Filtering- Displaying Items",
+      "duration": 239,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66097503,
+      "page": 73,
+      "from": "vupload",
+      "part": "中文 CH5 - Pagination, Filtering, and Sorting - 11- Filtering- Default Props",
+      "duration": 127,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66097715,
+      "page": 74,
+      "from": "vupload",
+      "part": "中文 CH5 - Pagination, Filtering, and Sorting - 12- Filtering- Handling Selection",
+      "duration": 261,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 82121428,
+      "page": 75,
+      "from": "vupload",
+      "part": "中文 CH5 - Pagination, Filtering, and Sorting - 13- Filtering- Implementing Filter",
+      "duration": 181,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66140454,
+      "page": 76,
+      "from": "vupload",
+      "part": "中文 CH5 - Pagination, Filtering, and Sorting - 14- Filtering- Adding All Genres",
+      "duration": 220,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66154721,
+      "page": 77,
+      "from": "vupload",
+      "part": "中文 CH5 - Pagination, Filtering, and Sorting - 15- Sorting- Extracting MoviesTabl",
+      "duration": 320,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66798357,
+      "page": 78,
+      "from": "vupload",
+      "part": "中文 CH5 - Pagination, Filtering, and Sorting - 16- Sorting- Raising t",
+      "duration": 209,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66798332,
+      "page": 79,
+      "from": "vupload",
+      "part": "中文 CH5 - Pagination, Filtering, and Sorting - 17- Sorting- Implement",
+      "duration": 314,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66798343,
+      "page": 80,
+      "from": "vupload",
+      "part": "中文 CH5 - Pagination, Filtering, and Sorting - 18- Sorting- Moving Re",
+      "duration": 316,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66876013,
+      "page": 81,
+      "from": "vupload",
+      "part": "中文 CH5 - 19- Sorting- Extracting TableHeader",
+      "duration": 465,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66876227,
+      "page": 82,
+      "from": "vupload",
+      "part": "中文 CH5 - 20- Sorting- Extracting TableBody",
+      "duration": 193,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66885295,
+      "page": 83,
+      "from": "vupload",
+      "part": "中文 CH5 - 21- Sorting- Rendering Cell Content",
+      "duration": 483,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66907110,
+      "page": 84,
+      "from": "vupload",
+      "part": "中文 CH5 - 22- Sorting- Unique Keys",
+      "duration": 180,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66928596,
+      "page": 85,
+      "from": "vupload",
+      "part": "中文 CH5 - 23- Sorting- Adding the Sort Icon",
+      "duration": 238,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66990849,
+      "page": 86,
+      "from": "vupload",
+      "part": "中文 CH5 - 24- Sorting- Extracting Table",
+      "duration": 232,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66991708,
+      "page": 87,
+      "from": "vupload",
+      "part": "中文 CH5 - 25- Sorting- Extracting a Method",
+      "duration": 200,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66992872,
+      "page": 88,
+      "from": "vupload",
+      "part": "中文 CH5 - 26- Destructuring Arguments",
+      "duration": 59,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66993219,
+      "page": 89,
+      "from": "vupload",
+      "part": "中文 CH5 - 27- Summary",
+      "duration": 53,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66999739,
+      "page": 90,
+      "from": "vupload",
+      "part": "中文 CH6 - 1- Introduction",
+      "duration": 34,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66999771,
+      "page": 91,
+      "from": "vupload",
+      "part": "中文 CH6 - 2- Setup",
+      "duration": 107,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66999794,
+      "page": 92,
+      "from": "vupload",
+      "part": "中文 CH6 - 3- Adding Routing",
+      "duration": 257,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 66999787,
+      "page": 93,
+      "from": "vupload",
+      "part": "中文 CH6 - 4- Switch",
+      "duration": 147,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 67021346,
+      "page": 94,
+      "from": "vupload",
+      "part": "中文 CH6 - 5- Link",
+      "duration": 261,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 67021942,
+      "page": 95,
+      "from": "vupload",
+      "part": "中文 CH6 - 6- Route Props",
+      "duration": 131,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 67024240,
+      "page": 96,
+      "from": "vupload",
+      "part": "中文 CH6 - 7- Passing Props",
+      "duration": 156,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 67028885,
+      "page": 97,
+      "from": "vupload",
+      "part": "中文 CH6 - 8- Route Parameters",
+      "duration": 213,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 67161838,
+      "page": 98,
+      "from": "vupload",
+      "part": "中文 CH6 - 9- Optional Parameters",
+      "duration": 127,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 67165154,
+      "page": 99,
+      "from": "vupload",
+      "part": "中文 CH6 - 10- Query String Parameters",
+      "duration": 232,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 67166116,
+      "page": 100,
+      "from": "vupload",
+      "part": "中文 CH6 - 11- Redirects",
+      "duration": 188,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 67172348,
+      "page": 101,
+      "from": "vupload",
+      "part": "中文 CH6 - 12- Programmatic Navigation",
+      "duration": 141,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 67180813,
+      "page": 102,
+      "from": "vupload",
+      "part": "中文 CH6 - 13- Nested Routing",
+      "duration": 276,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 67184260,
+      "page": 103,
+      "from": "vupload",
+      "part": "中文 CH6 - 14- Exercises- NavBar and Routing",
+      "duration": 105,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 67188760,
+      "page": 104,
+      "from": "vupload",
+      "part": "中文 CH6 - 15- Adding React Router",
+      "duration": 87,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 67194533,
+      "page": 105,
+      "from": "vupload",
+      "part": "中文 CH6 - 16- Adding Routes",
+      "duration": 299,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 67280286,
+      "page": 106,
+      "from": "vupload",
+      "part": "中文 CH6 - 17- Adding the NavBar",
+      "duration": 281,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 67285816,
+      "page": 107,
+      "from": "vupload",
+      "part": "中文 CH6 - 18- Linking to the MovieForm",
+      "duration": 283,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 67285792,
+      "page": 108,
+      "from": "vupload",
+      "part": "中文 CH6 - 19 - Summary",
+      "duration": 32,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68379299,
+      "page": 109,
+      "from": "vupload",
+      "part": "中文 CH7 - 1- Introduction",
+      "duration": 39,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68402999,
+      "page": 110,
+      "from": "vupload",
+      "part": "中文 CH7 - 2- Building a Bootstrap Form",
+      "duration": 335,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68417684,
+      "page": 111,
+      "from": "vupload",
+      "part": "中文 CH7 - 3- Handling Form Submission",
+      "duration": 121,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68445967,
+      "page": 112,
+      "from": "vupload",
+      "part": "中文 CH7 - 4- Refs",
+      "duration": 239,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68495106,
+      "page": 113,
+      "from": "vupload",
+      "part": "中文 CH7 - 5- Controlled Elements",
+      "duration": 273,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68504886,
+      "page": 114,
+      "from": "vupload",
+      "part": "中文 CH7 - 6- Handling Multiple Inputs",
+      "duration": 170,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68509877,
+      "page": 115,
+      "from": "vupload",
+      "part": "中文 CH7 - 7- Common Errors",
+      "duration": 149,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68513703,
+      "page": 116,
+      "from": "vupload",
+      "part": "中文 CH7 - 8- Extracting a Reusable Input",
+      "duration": 238,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68517104,
+      "page": 117,
+      "from": "vupload",
+      "part": "中文 CH7 - 9- Validation",
+      "duration": 177,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68521064,
+      "page": 118,
+      "from": "vupload",
+      "part": "中文 CH7 - 10- A Basic Validation Implementation",
+      "duration": 192,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68553871,
+      "page": 119,
+      "from": "vupload",
+      "part": "中文 CH7 - 11- Displaying Validation Errors",
+      "duration": 223,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68553885,
+      "page": 120,
+      "from": "vupload",
+      "part": "中文 CH7 - 12- Validation on Change",
+      "duration": 261,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68621220,
+      "page": 121,
+      "from": "vupload",
+      "part": "中文 CH7 - 13- Joi",
+      "duration": 274,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68631002,
+      "page": 122,
+      "from": "vupload",
+      "part": "中文 CH7 - 14- Validating a Form Using Joi",
+      "duration": 284,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68631862,
+      "page": 123,
+      "from": "vupload",
+      "part": "中文 CH7 - 15- Validating a Field Using Joi",
+      "duration": 323,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68644075,
+      "page": 124,
+      "from": "vupload",
+      "part": "中文 CH7 - 16- Disabling the Submit Button",
+      "duration": 73,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68655393,
+      "page": 125,
+      "from": "vupload",
+      "part": "中文 CH7 - 17- Code Review",
+      "duration": 195,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68953864,
+      "page": 126,
+      "from": "vupload",
+      "part": "中文 CH7 - 18- Extracting a Reusable Form",
+      "duration": 292,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 68955595,
+      "page": 127,
+      "from": "vupload",
+      "part": "中文 CH7 - 19- Extracting Helper Rendering Methods",
+      "duration": 499,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 69045423,
+      "page": 128,
+      "from": "vupload",
+      "part": "中文 CH7 - 20- Register Form",
+      "duration": 103,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 69045436,
+      "page": 129,
+      "from": "vupload",
+      "part": "中文 CH7 - 21- Code Review",
+      "duration": 71,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 69045457,
+      "page": 130,
+      "from": "vupload",
+      "part": "中文 CH7 - 22- Exercise 2- Movie Form",
+      "duration": 199,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 69045475,
+      "page": 131,
+      "from": "vupload",
+      "part": "中文 CH7 - 23- Code Review",
+      "duration": 505,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 69045583,
+      "page": 132,
+      "from": "vupload",
+      "part": "中文 CH7 - 24- Exercise 3- Search Movies",
+      "duration": 83,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 69045598,
+      "page": 133,
+      "from": "vupload",
+      "part": "中文 CH7 - 25- Code Review",
+      "duration": 313,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 69862358,
+      "page": 134,
+      "from": "vupload",
+      "part": "中文 CH8 -1- Introduction",
+      "duration": 75,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 69863781,
+      "page": 135,
+      "from": "vupload",
+      "part": "中文 CH8 -2- JSON Placeholder",
+      "duration": 176,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 69863978,
+      "page": 136,
+      "from": "vupload",
+      "part": "中文 CH8 -3- Http Clients",
+      "duration": 178,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 70064633,
+      "page": 137,
+      "from": "vupload",
+      "part": "中文 CH8 -4- Getting Data",
+      "duration": 327,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 70064634,
+      "page": 138,
+      "from": "vupload",
+      "part": "中文 CH8 -5- Creating Data",
+      "duration": 294,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 70239039,
+      "page": 139,
+      "from": "vupload",
+      "part": "中文 CH8 -6- Lifecycle of a Request",
+      "duration": 171,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 70240470,
+      "page": 140,
+      "from": "vupload",
+      "part": "中文 CH8 -7- Updating Data",
+      "duration": 255,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 70364502,
+      "page": 141,
+      "from": "vupload",
+      "part": "中文 CH8 -8- Deleting Data",
+      "duration": 96,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 70364503,
+      "page": 142,
+      "from": "vupload",
+      "part": "中文 CH8 -9- Optimistic vs Pessimistic Updates",
+      "duration": 265,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 70475692,
+      "page": 143,
+      "from": "vupload",
+      "part": "中文 CH8 -10- Expected vs Unexpected Errors",
+      "duration": 401,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 70543524,
+      "page": 144,
+      "from": "vupload",
+      "part": "中文 CH8 -11- Handling Unexpected Errors Globally",
+      "duration": 475,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 70612222,
+      "page": 145,
+      "from": "vupload",
+      "part": "中文 CH8 -12- Extracting a Reusable Http Service",
+      "duration": 224,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 70611986,
+      "page": 146,
+      "from": "vupload",
+      "part": "中文 CH8 -13- Extracting a Config Module",
+      "duration": 97,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 70612180,
+      "page": 147,
+      "from": "vupload",
+      "part": "中文 CH8 -14- Displaying Toast Notifications",
+      "duration": 177,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 70758106,
+      "page": 148,
+      "from": "vupload",
+      "part": "中文 CH8 -15- Logging Errors",
+      "duration": 349,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 70902480,
+      "page": 149,
+      "from": "vupload",
+      "part": "中文 CH8 -16- Extracting a Logger Service",
+      "duration": 266,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 70899113,
+      "page": 150,
+      "from": "vupload",
+      "part": "中文 CH8 -17- Vidly Backend",
+      "duration": 111,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71040102,
+      "page": 151,
+      "from": "vupload",
+      "part": "中文 CH8 -18- Installing MongoDB on Mac",
+      "duration": 239,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71042915,
+      "page": 152,
+      "from": "vupload",
+      "part": "中文 CH8 -19- Installing MongoDB on Windows",
+      "duration": 340,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71040009,
+      "page": 153,
+      "from": "vupload",
+      "part": "中文 CH8 -20- Setting Up the Node Backend",
+      "duration": 165,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71061863,
+      "page": 154,
+      "from": "vupload",
+      "part": "中文 CH8 -21- Disabling Authentication",
+      "duration": 242,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71198249,
+      "page": 155,
+      "from": "vupload",
+      "part": "中文 CH8 -22- Exercise- Connect Movies Page to the Backend",
+      "duration": 117,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71201241,
+      "page": 156,
+      "from": "vupload",
+      "part": "中文 CH8 -23- Ading Http and Log Services",
+      "duration": 159,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71201386,
+      "page": 157,
+      "from": "vupload",
+      "part": "中文 CH8 -24- Replacing FakeGenreService",
+      "duration": 204,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71203738,
+      "page": 158,
+      "from": "vupload",
+      "part": "中文 CH8 -25- Replacing FakeMovieService",
+      "duration": 349,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71258146,
+      "page": 159,
+      "from": "vupload",
+      "part": "中文 CH8 -26- Extracting a Config File",
+      "duration": 115,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71258552,
+      "page": 160,
+      "from": "vupload",
+      "part": "中文 CH8 -27- Exercise- Connect Movie Form to the Backend",
+      "duration": 57,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71258749,
+      "page": 161,
+      "from": "vupload",
+      "part": "中文 CH8 -28- Populating the Form",
+      "duration": 226,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71260161,
+      "page": 162,
+      "from": "vupload",
+      "part": "中文 CH8 -29- Refactoring",
+      "duration": 151,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71260928,
+      "page": 163,
+      "from": "vupload",
+      "part": "中文 CH8 -30- Saving the Movie",
+      "duration": 162,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71262522,
+      "page": 164,
+      "from": "vupload",
+      "part": "中文 CH8 -31- Refactoring",
+      "duration": 157,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71374941,
+      "page": 165,
+      "from": "vupload",
+      "part": "中文 CH9 -1 - Introduction",
+      "duration": 50,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71380646,
+      "page": 166,
+      "from": "vupload",
+      "part": "中文 CH9 -2- Registering a New User",
+      "duration": 158,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71381757,
+      "page": 167,
+      "from": "vupload",
+      "part": "中文 CH9 -3- Submitting the Registration Form",
+      "duration": 271,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71401489,
+      "page": 168,
+      "from": "vupload",
+      "part": "中文 CH9 -4- Handling Registration Errors",
+      "duration": 119,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71402139,
+      "page": 169,
+      "from": "vupload",
+      "part": "中文 CH9 -5- Logging in a User",
+      "duration": 104,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71623570,
+      "page": 170,
+      "from": "vupload",
+      "part": "中文 CH9 -6- Submitting the Login Form",
+      "duration": 145,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71623592,
+      "page": 171,
+      "from": "vupload",
+      "part": "中文 CH9 -7- Handling Login Errors",
+      "duration": 112,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71623612,
+      "page": 172,
+      "from": "vupload",
+      "part": "中文 CH9 -8- Storing the JWT",
+      "duration": 185,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71623632,
+      "page": 173,
+      "from": "vupload",
+      "part": "中文 CH9 -9- Logging in the User upon Registration",
+      "duration": 339,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 71623690,
+      "page": 174,
+      "from": "vupload",
+      "part": "中文 CH9 -10- JSON Web Tokens (JWT)",
+      "duration": 241,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72038465,
+      "page": 175,
+      "from": "vupload",
+      "part": "中文 CH9 -11- Getting the Current User",
+      "duration": 259,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72038505,
+      "page": 176,
+      "from": "vupload",
+      "part": "中文 CH9 -12- Displaying the Current User on NavBar",
+      "duration": 289,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72038569,
+      "page": 177,
+      "from": "vupload",
+      "part": "中文 CH9 -13- Logging out a User",
+      "duration": 165,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72038604,
+      "page": 178,
+      "from": "vupload",
+      "part": "中文 CH9 -14- Refactoring",
+      "duration": 604,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72038948,
+      "page": 179,
+      "from": "vupload",
+      "part": "中文 CH9 -15- Calling Protected API Endpoints",
+      "duration": 252,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72038999,
+      "page": 180,
+      "from": "vupload",
+      "part": "中文 CH9 -16- Fixing Bi-directional Dependencies",
+      "duration": 164,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72039030,
+      "page": 181,
+      "from": "vupload",
+      "part": "中文 CH9 -17- Authorization",
+      "duration": 391,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72039094,
+      "page": 182,
+      "from": "vupload",
+      "part": "中文 CH9 -18- Showing or Hiding Elements based on the User",
+      "duration": 161,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72039124,
+      "page": 183,
+      "from": "vupload",
+      "part": "中文 CH9 -19- Protecting Routes",
+      "duration": 171,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72039153,
+      "page": 184,
+      "from": "vupload",
+      "part": "中文 CH9 -20- Extracting ProtectedRoute",
+      "duration": 356,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72039212,
+      "page": 185,
+      "from": "vupload",
+      "part": "中文 CH9 -21- Redirecting after Login",
+      "duration": 341,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72039298,
+      "page": 186,
+      "from": "vupload",
+      "part": "中文 CH9 -22- Exercise",
+      "duration": 21,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72039303,
+      "page": 187,
+      "from": "vupload",
+      "part": "中文 CH9 -23- Hiding the Delete Column",
+      "duration": 260,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72069255,
+      "page": 188,
+      "from": "vupload",
+      "part": "中文 CH10 -1- Introduction",
+      "duration": 39,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72069266,
+      "page": 189,
+      "from": "vupload",
+      "part": "中文 CH10 -2- Environment Variables",
+      "duration": 299,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72069327,
+      "page": 190,
+      "from": "vupload",
+      "part": "中文 CH10 -3- Production Builds",
+      "duration": 169,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72069361,
+      "page": 191,
+      "from": "vupload",
+      "part": "中文 CH10 -4- Getting Started with Heroku",
+      "duration": 127,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72069396,
+      "page": 192,
+      "from": "vupload",
+      "part": "中文 CH10 -5- MongoDB in the Cloud",
+      "duration": 157,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72102707,
+      "page": 193,
+      "from": "vupload",
+      "part": "中文 CH10 -6- Adding Code to a Git Repository",
+      "duration": 186,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72102739,
+      "page": 194,
+      "from": "vupload",
+      "part": "中文 CH10 -7- Deploying to Heroku",
+      "duration": 183,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72102772,
+      "page": 195,
+      "from": "vupload",
+      "part": "中文 CH10 -8- Viewing Logs",
+      "duration": 161,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72102820,
+      "page": 196,
+      "from": "vupload",
+      "part": "中文 CH10 -9- Setting Environment Variables on Heroku",
+      "duration": 278,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72132680,
+      "page": 197,
+      "from": "vupload",
+      "part": "中文 CH10 -10- Preparing the Font-end for Deployment",
+      "duration": 250,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72132749,
+      "page": 198,
+      "from": "vupload",
+      "part": "中文 CH10 -11- Deploying the Front-end",
+      "duration": 159,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 72132795,
+      "page": 199,
+      "from": "vupload",
+      "part": "中文 CH10 -12- A Story",
+      "duration": 157,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    },
+    {
+      "cid": 283215783,
+      "page": 200,
+      "from": "vupload",
+      "part": "中文 CH11 高级内容",
+      "duration": 3873,
+      "vid": "",
+      "weblink": "",
+      "dimension": { "width": 1920, "height": 1080, "rotate": 0 }
+    }
+  ]
+}
