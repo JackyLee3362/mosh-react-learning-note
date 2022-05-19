@@ -12,11 +12,35 @@
 
 ## 4.3 Passing Data to Components
 
+```react
+<Counter key={counter.id} value={counter.value} id={counter.id}>
+            <h5>Counter #{counter.id}</h5>
+</Counter>
+```
+
+
+
 ## 4.4 Passing Children
+
+```react
+// 在counter.js render()中添加
+{this.props.children}
+
+// 在counter.js render()中添加
+<h4>Counter #{this.props.id}</h4>
+```
+
+
 
 ## 4.5 - Debugging React Apps
 
+react Develop tools
+
 ## 4.6 Props vs State
+
+state是local, private
+
+prop是只读的
 
 ## 4.7 - Raising and Handling Events
 
@@ -36,7 +60,17 @@
 
 ## 4.15 - Lifecycle Hooks
 
-## 4.16 - Mounting Phase
+- MOUNT
+  - constructor
+  - render
+  - `componentDidMount`
+- UPDATE
+  - render
+  - `componentDidUpdate`
+- UNMOUNT
+  - `componentDidUnmount`
+
+## 4.16 Mounting Phase 装载阶段
 
 ## 4.17 Updating Phase
 

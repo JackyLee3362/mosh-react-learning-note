@@ -1,22 +1,21 @@
 import React, { Component } from "react"; // 3.3
 class Counter extends Component {
-  state = {
-    count: 0, // 3.5
-  };
-
-  handleIncrement = () => {
-    this.setState({ count: this.state.count + 1 });
-  };
-
   render() {
     return (
       <React.Fragment>
+        <h6> </h6>
         <span className={this.getBgClasses()}>{this.formatCount()} </span>
         <button
-          onClick={() => this.handleIncrement()}
-          className="btn btn-secondary btn-sm"
+          onClick={() => this.props.onIncrement(this.props.counter)}
+          className="btn btn-primary btn-sm m-2"
         >
           Increment
+        </button>
+        <button
+          onClick={() => this.props.onDelete(this.props.counter.id)}
+          className="btn btn-danger btn-sm m-2"
+        >
+          Delete
         </button>
       </React.Fragment>
     ); // 3.3, 3.4, 3.5, 3.6, 3.7
@@ -24,13 +23,13 @@ class Counter extends Component {
 
   formatCount() {
     // 3.5
-    const { count } = this.state;
-    return count === 0 ? "zero" : count;
+    const { value } = this.props.counter;
+    return value === 0 ? "Zero" : value;
   }
   getBgClasses() {
     //3.7
     let classes = "badge m-2 bg"; // 3.7
-    classes += this.state.count === 0 ? "-warning" : "-primary";
+    classes += this.props.counter.value === 0 ? "-warning" : "-primary";
     return classes;
   }
 }
