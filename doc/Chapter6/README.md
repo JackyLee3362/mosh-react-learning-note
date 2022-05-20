@@ -2,6 +2,12 @@
 
 ## 6.1 Introduction
 
+- Route Parameters
+- Query String
+- Redirect
+- Not Found(404) Pages
+- Nested Routing 路由嵌套
+
 ## 6.2 Setup
 
 ## 6.3 Adding Routing
