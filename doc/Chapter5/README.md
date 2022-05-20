@@ -14,6 +14,10 @@
 
 ## 5.7 Pagination- Type Checking with
 
+npm i prop-types
+
+react->doc->Advanced guides->typechecking with proptypes
+
 ## 5.8 Exercise- ListGroup Component
 
 ## 5.9 Filtering- Component Interface

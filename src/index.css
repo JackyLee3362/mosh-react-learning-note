@@ -12,3 +12,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.clickable {
+  cursor: pointer; /* 5.23 使得上箭头和下箭头在鼠标放上去时是手指的样式 */
+}
