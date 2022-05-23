@@ -6,17 +6,18 @@ import reportWebVitals from "./reportWebVitals";
 import "bootstrap/dist/css/bootstrap.css"; // 3.2
 import "font-awesome/css/font-awesome.css"; // 3.15
 // import Counter from "./components/counter"; // 3.3
-import Movie from "./components/movie";
+import Movie from "./components/movies";
 import Counters from "./components/counters"; // 4.2
-import App from "./components/app";
+import App from "./App";
+import { BrowserRouter } from "react-router-dom"; // 6.3
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <React.StrictMode>
+  <BrowserRouter>
     <main className="container">
       <App />
     </main>
-  </React.StrictMode>
+  </BrowserRouter>
 );
 
 // If you want to start measuring performance in your app, pass a function
