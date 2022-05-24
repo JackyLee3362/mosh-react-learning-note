@@ -14,6 +14,9 @@
 
 ## 7.7 Common Errors
 
+1. 删除 state 中的 username 属性，在页面的 username 输入会发生错误
+   原因：undefined 和 null 都不能用于受控元素
+
 ## 7.8 Extracting a Reusable Input
 
 ## 7.9 Validation
@@ -25,6 +28,8 @@
 ## 7.2 Validation on Change
 
 ## 7.3 Joi
+
+npm i joi-browser
 
 ## 7.4 Validating a Form Using Joi
 

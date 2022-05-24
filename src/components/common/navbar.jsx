@@ -28,6 +28,12 @@ const NavBar = (props) => {
           <span className="navbar-brand clickable nav-item nav-link">
             <NavLink to="/rentals">Rentals</NavLink>
           </span>
+          <span className="navbar-brand clickable nav-item nav-link">
+            <NavLink to="/login">Login</NavLink>
+          </span>
+          <span className="navbar-brand clickable nav-item nav-link">
+            <NavLink to="/register">Register</NavLink>
+          </span>
         </div>
       </nav>
     </React.Fragment>

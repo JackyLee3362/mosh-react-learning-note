@@ -6,6 +6,8 @@ import ListGroup from "./common/listGroup";
 import { paginate } from "../util/paginate";
 import MoviesTable from "./moviesTable";
 import _ from "lodash"; // 5.17
+import { Link, useNavigate } from "react-router-dom";
+import SearchBox from "./searchBox";
 
 class Movies extends Component {
   state = {
@@ -13,6 +15,8 @@ class Movies extends Component {
     genres: [], // 5.9 先空列表，在componentDidMount后再从服务器申请数据
     currentPage: 1,
     pageSize: 4,
+    searchQuery: "",
+    selectedGenre: null,
     sortColumn: { path: "title", order: "asc" },
   };
 
@@ -37,7 +41,12 @@ class Movies extends Component {
     this.setState({ currentPage: page });
   };
   handleGenreSelect = (genres) => {
-    this.setState({ selectedGenre: genres, currentPage: 1 });
+    this.setState({ selectedGenre: genres, searchQuery: "", currentPage: 1 });
+  };
+  handleSearch = (query) => {
+    // 7.25
+    // 7.25 What's the difference between "" and null.
+    this.setState({ searchQuery: query, selectedGenre: null, currentPage: 1 });
   };
   handleSort = (sortColumn) => {
     this.setState({ sortColumn });
@@ -47,14 +56,20 @@ class Movies extends Component {
     const {
       pageSize,
       currentPage,
-      movies: allmovies,
+      movies: allMovies,
       selectedGenre,
+      searchQuery,
       sortColumn, // 5.18 传递这个参数到MoviesTable中的含义在于，我们不想用户在其他页面返回时，原先选择的排序消失了
     } = this.state;
-    const filtered =
-      selectedGenre && selectedGenre._id
-        ? allmovies.filter((movie) => movie.genre._id === selectedGenre._id)
-        : allmovies;
+    let filtered = allMovies;
+    if (searchQuery)
+      filtered = allMovies.filter((m) =>
+        m.title.toLowerCase().startsWith(searchQuery.toLowerCase())
+      );
+    else if (selectedGenre && selectedGenre._id)
+      filtered = allMovies.filter(
+        (movie) => movie.genre._id === selectedGenre._id
+      );
 
     const sorted = _.orderBy(filtered, [sortColumn.path], [sortColumn.order]);
     const movies = paginate(sorted, currentPage, pageSize); // 5.6
@@ -66,36 +81,45 @@ class Movies extends Component {
       pageSize,
       currentPage,
       sortColumn, // 5.18 传递这个参数到MoviesTable中的含义在于，我们不想用户在其他页面返回时，原先选择的排序消失了
+      searchQuery,
     } = this.state;
 
     if (count === 0) return <p>There are no movies in the database.</p>;
     const { totalCount, data: movies } = this.getPageDate();
     return (
-      <div className="row">
-        <div className="col-2">
-          <ListGroup
-            items={this.state.genres}
-            selectedItem={this.state.selectedGenre}
-            onItemSelect={this.handleGenreSelect}
-          />
+      <React.Fragment>
+        <div className="row">
+          <div className="col-2">
+            <ListGroup
+              items={this.state.genres}
+              selectedItem={this.state.selectedGenre}
+              onItemSelect={this.handleGenreSelect}
+            />
+          </div>
+          <div className="col">
+            <Link to="/movies/new">
+              <button className="btn btn-primary" style={{ marginBottom: 20 }}>
+                New Movie
+              </button>
+            </Link>
+            <p>Showing {totalCount} movies int the database</p>
+            <SearchBox value={searchQuery} onChange={this.handleSearch} />
+            <MoviesTable
+              movies={movies}
+              sortColumn={sortColumn}
+              onDelete={this.handleDelete}
+              onLike={this.handleLike}
+              onSort={this.handleSort}
+            />
+            <Pagination
+              itemsCount={totalCount}
+              pageSize={pageSize}
+              currentPage={currentPage}
+              onPageChange={this.handlePageChange}
+            />
+          </div>
         </div>
-        <div className="col">
-          <p>Showing {totalCount} movies int the database</p>
-          <MoviesTable
-            movies={movies}
-            sortColumn={sortColumn}
-            onDelete={this.handleDelete}
-            onLike={this.handleLike}
-            onSort={this.handleSort}
-          />
-          <Pagination
-            itemsCount={totalCount}
-            pageSize={pageSize}
-            currentPage={currentPage}
-            onPageChange={this.handlePageChange}
-          />
-        </div>
-      </div>
+      </React.Fragment>
     );
   }
 }
