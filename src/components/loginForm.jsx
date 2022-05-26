@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Input from "./common/input";
 import Joi from "joi-browser";
 import Form from "./common/form";
+import auth from "../services/authService";
 class LoginForm extends Form {
   state = {
     data: {
@@ -19,8 +20,18 @@ class LoginForm extends Form {
   componentDidMount() {
     // this.username.current.focus(); // 打开页面后光标所在的位置（输入域获得了焦点）
   }
-  doSubmit = () => {
-    console.log("submitted.");
+  doSubmit = async () => {
+    try {
+      const { data } = this.state;
+      await auth.login(data.username, data.password);
+      window.location = "/"; // 9.12
+    } catch (ex) {
+      if (ex.response && ex.response.status === 400) {
+        const errors = { ...this.state.errors };
+        errors.username = ex.response.data;
+        this.setState({ errors });
+      }
+    }
   };
 
   render() {

@@ -6,6 +6,12 @@
 
 ## 10.3 Production Builds
 
+npm run build
+
+npm install -g serve
+
+serve -s build
+
 ## 10.4 Getting Started with Heroku
 
 ## 10.5 MongoDB in the Cloud
@@ -18,10 +24,10 @@
 
 ## 10.9 Setting Environment Variables on Heroku
 
-## 10.0 Preparing the Font-end for Deployment
+## 10.10 Preparing the Font-end for Deployment
 
-## 10.1 Deploying the Front-end
+## 10.11 Deploying the Front-end
 
-## 10.2 A Story
+## 10.12 A Story
 
 [Home](../../README.md) | [Previous](../Chapter9/README.md) | [Next](../Chapter1/README.md)

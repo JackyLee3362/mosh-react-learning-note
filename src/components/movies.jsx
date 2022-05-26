@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import { getMovies } from "../services/fakeMovieService";
-import { getGenres } from "../services/fakeGenreService";
+import { getMovies, deleteMovie, saveMovie } from "../services/movieService";
+import { getGenres } from "../services/genreService";
 import Pagination from "./common/pagination";
 import ListGroup from "./common/listGroup";
 import { paginate } from "../util/paginate";
@@ -8,6 +8,8 @@ import MoviesTable from "./moviesTable";
 import _ from "lodash"; // 5.17
 import { Link, useNavigate } from "react-router-dom";
 import SearchBox from "./searchBox";
+
+import { toast } from "react-toastify"; // 8.25
 
 class Movies extends Component {
   state = {
@@ -19,16 +21,36 @@ class Movies extends Component {
     selectedGenre: null,
     sortColumn: { path: "title", order: "asc" },
   };
-
-  componentDidMount() {
-    const genres = [{ _id: "", name: "All Genres" }, ...getGenres()];
-    // 5.9
-    this.setState({ movies: getMovies(), genres });
+  async populateGenres() {
+    const { data } = await getGenres(); // 8.24
+    const genres = [{ _id: "", name: "All Genres" }, ...data];
+    this.setState({ genres });
   }
-  handleDelete = (movie) => {
-    console.log(movie);
-    const movies = this.state.movies.filter((m) => m._id !== movie._id);
+  async populateMovies() {
+    // 5.9
+    try {
+      const { data: movies } = await getMovies(); // 8.25
+      this.setState({ movies });
+    } catch (ex) {
+      if (ex.response && ex.response.status === 404) console.log("404"); // 8.28 没有实现返回的功能
+    }
+  }
+  async componentDidMount() {
+    await this.populateGenres();
+    await this.populateMovies();
+  }
+  handleDelete = async (movie) => {
+    // 乐观更新
+    const originalMovies = this.state.movies;
+    const movies = originalMovies.filter((m) => m._id !== movie._id);
     this.setState({ movies });
+    try {
+      await deleteMovie(movie._id);
+    } catch (ex) {
+      if (ex.response && ex.response.status === 404)
+        toast.error("This movie has already been deleted.");
+      this.setState({ movies: originalMovies });
+    }
   };
   handleLike = (movie) => {
     const movies = [...this.state.movies];
@@ -83,6 +105,7 @@ class Movies extends Component {
       sortColumn, // 5.18 传递这个参数到MoviesTable中的含义在于，我们不想用户在其他页面返回时，原先选择的排序消失了
       searchQuery,
     } = this.state;
+    const { user } = this.props;
 
     if (count === 0) return <p>There are no movies in the database.</p>;
     const { totalCount, data: movies } = this.getPageDate();
@@ -98,9 +121,14 @@ class Movies extends Component {
           </div>
           <div className="col">
             <Link to="/movies/new">
-              <button className="btn btn-primary" style={{ marginBottom: 20 }}>
-                New Movie
-              </button>
+              {user && (
+                <button
+                  className="btn btn-primary"
+                  style={{ marginBottom: 20 }}
+                >
+                  New Movie
+                </button>
+              )}
             </Link>
             <p>Showing {totalCount} movies int the database</p>
             <SearchBox value={searchQuery} onChange={this.handleSearch} />

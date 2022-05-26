@@ -28,12 +28,26 @@ const NavBar = (props) => {
           <span className="navbar-brand clickable nav-item nav-link">
             <NavLink to="/rentals">Rentals</NavLink>
           </span>
-          <span className="navbar-brand clickable nav-item nav-link">
-            <NavLink to="/login">Login</NavLink>
-          </span>
-          <span className="navbar-brand clickable nav-item nav-link">
-            <NavLink to="/register">Register</NavLink>
-          </span>
+          {!props.user && (
+            <React.Fragment>
+              <span className="navbar-brand clickable nav-item nav-link">
+                <NavLink to="/login">Login</NavLink>
+              </span>
+              <span className="navbar-brand clickable nav-item nav-link">
+                <NavLink to="/register">Register</NavLink>
+              </span>
+            </React.Fragment>
+          )}
+          {props.user && (
+            <React.Fragment>
+              <span className="navbar-brand clickable nav-item nav-link">
+                <NavLink to="/profile">{props.user.name}</NavLink>
+              </span>
+              <span className="navbar-brand clickable nav-item nav-link">
+                <NavLink to="/logout">Logout</NavLink>
+              </span>
+            </React.Fragment>
+          )}
         </div>
       </nav>
     </React.Fragment>

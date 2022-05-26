@@ -18,32 +18,34 @@
 
 ## 9.9 Logging in the User upon Registration
 
-## 9.0 JSON Web Tokens (JWT)
+## 9.10 JSON Web Tokens (JWT)
 
-## 9.1 Getting the Current User
+## 9.11 Getting the Current User
 
-## 9.2 Displaying the Current User on NavBar
+npm i jwt-decode
 
-## 9.3 Logging out a User
+## 9.12 Displaying the Current User on NavBar
 
-## 9.4 Refactoring
+## 9.13 Logging out a User
 
-## 9.5 Calling Protected API Endpoints
+## 9.14 Refactoring
 
-## 9.6 Fixing Bi-directional Dependencies
+## 9.15 Calling Protected API Endpoints
 
-## 9.7 Authorization
+## 9.16 Fixing Bi-directional Dependencies
 
-## 9.8 Showing or Hiding Elements based on the User
+## 9.17 Authorization
 
-## 9.9 Protecting Routes
+## 9.18 Showing or Hiding Elements based on the User
 
-## 9.0 Extracting ProtectedRoute
+## 9.19 Protecting Routes
 
-## 9.1 Redirecting after Login
+## 9.20 Extracting ProtectedRoute
 
-## 9.2 Exercise
+## 9.21 Redirecting after Login
 
-## 9.3 Hiding the Delete Column
+## 9.22 Exercise
+
+## 9.23 Hiding the Delete Column
 
 [Home](../../README.md) | [Previous](../Chapter8/README.md) | [Next](../Chapter10/README.md)

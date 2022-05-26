@@ -7,7 +7,6 @@ class Form extends Component {
   validate = () => {
     const options = { abortEarly: false }; // 更美观
     const { error } = Joi.validate(this.state.data, this.schema, options);
-    console.log("Joi", error);
     if (!error) return null;
     const errors = {};
     // 7.14

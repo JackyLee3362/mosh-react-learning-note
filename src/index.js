@@ -10,6 +10,11 @@ import Movie from "./components/movies";
 import Counters from "./components/counters"; // 4.2
 import App from "./App";
 import { BrowserRouter } from "react-router-dom"; // 6.3
+import logger from "./services/logService";
+
+logger.init();
+
+console.log(process.env);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
